@@ -1,3 +1,9 @@
 .nike-fashion{
     background-color: #FFF9F4;
+    width: auto;
+}   
+@media only screen and (max-width:688px) {
+    .nike-fashion{
+        width: 100%;
+    }
 }
